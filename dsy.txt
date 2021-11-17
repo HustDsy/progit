@@ -8,7 +8,5 @@ iss53
 mainbranch
 iss01
 this is from show
-<<<<<<< HEAD
 this is from iss01
-=======
->>>>>>> show
+show
